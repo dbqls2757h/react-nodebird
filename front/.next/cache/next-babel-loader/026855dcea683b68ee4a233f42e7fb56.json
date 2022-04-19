@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nvar AppLayout = function AppLayout(_ref) {\n  var children = _ref.children;\n  return __jsx(\"div\", null);\n};\n\nexport default AppLayout;","map":null,"metadata":{},"sourceType":"module"}
